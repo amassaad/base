@@ -1,4 +1,7 @@
 #source /opt/boxen/env.sh
+export PATH=/usr/local/bin:/bin:/sbin:/usr/bin:$PATH
+export EDITOR="subl -w"
+export VAGRANT_DEFAULT_PROVIDER="vmware_fusion"
 
 RED="\[\033[0;31m\]"
 YELLOW="\[\033[0;33m\]"

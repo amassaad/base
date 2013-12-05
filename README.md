@@ -13,3 +13,6 @@ git clone the file to your directory
 
 cp base/git-completion.sh ~/.git-completion.sh &&
 cp base/bash_profile ~/.bash_profile
+
+## finally, to update your terminal
+source ~/.bash_profile

@@ -15,4 +15,4 @@ git clone the file to your directory
 cp base/bash_profile ~/.bash_profile`
 
 ## finally, to update your terminal
-source ~/.bash_profile
+`source ~/.bash_profile`

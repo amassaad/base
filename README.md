@@ -13,6 +13,6 @@ To use
 `git clone git@github.com:amassaad/base.git`
 
 ## finally, to update your terminal
-`cp base/git-completion.sh ~/.git-completion.sh &&
-cp base/bash_profile ~/.bash_profile &&
+`cp base/.git-completion.sh ~/.git-completion.sh &&
+cp base/.bash_profile ~/.bash_profile &&
 source ~/.bash_profile`

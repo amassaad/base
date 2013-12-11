@@ -1,7 +1,7 @@
 base Massaad tools
 ====
 
-Basic Tools
+Basic Le Cool &trade; Tools
 
 Currently:
 -git-completion.sh

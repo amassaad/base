@@ -21,5 +21,6 @@ source ~/.bash_profile`
 
 ## TO DO
 ====
--Add copy/backup for old files (.bak)
--Shell script it?
+* Add copy/backup for old files (.bak)
+* Shell script it?
+* 

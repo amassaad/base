@@ -18,3 +18,7 @@ To use
 `cp base/.git-completion.sh ~/.git-completion.sh &&
 cp base/.bash_profile ~/.bash_profile &&
 source ~/.bash_profile`
+
+## TO DO
+====
+-Add copy/backup for old files (.bak)

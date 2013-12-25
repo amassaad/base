@@ -6,7 +6,7 @@ Basic Le Cool &trade; Tools
 Currently:
 * git-completion.sh: which is a shell script
 * bash_profile: my base settings 
-* 
+
 To use 
 
 ## git clone the file to your directory, like this:

@@ -3,11 +3,13 @@ Base tools for Massaad
 
 Basic Le Cool &trade; Tools
 
-Currently:
+Currently includes:
 * git-completion.sh: which is a shell script
 * bash_profile: my base settings 
+* gitignore
+* README.md <= this file
 
-To use 
+To use:
 
 ## git clone the file to your directory, like this:
 `git clone git@github.com:amassaad/base.git`

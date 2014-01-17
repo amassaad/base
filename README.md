@@ -1,4 +1,4 @@
-base Massaad tools
+Base tools for Massaad
 ====
 
 Basic Le Cool &trade; Tools

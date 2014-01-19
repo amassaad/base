@@ -25,3 +25,4 @@ source ~/.bash_profile`
 * Shell script it?
 * add MOTD capacity from zzv in ec2
 
+Stick a fork in me, I'm delicious! 

@@ -24,4 +24,4 @@ source ~/.bash_profile`
 * Add copy/backup for old files (.bak)
 * Shell script it?
 * add MOTD capacity from zzv in ec2
-* investigate chef if faster for server side 
+

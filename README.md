@@ -22,6 +22,7 @@ source ~/.bash_profile`
 #### TO DO
 ====
 * Add copy/backup for old files (.bak)
+* Make code to copy and git push back to GitHub 
 * Shell script it?
 * add MOTD capacity from zzv in ec2
 

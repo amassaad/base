@@ -1,6 +1,6 @@
 #source /opt/boxen/env.sh
 export PATH=/usr/local/bin:/bin:/sbin:/usr/bin:$PATH
-export EDITOR="subl -w"
+export EDITOR="nano"
 export VAGRANT_DEFAULT_PROVIDER="vmware_fusion"
 # Setup some environment variables for my forgetful mind
 export HISTSIZE=10000

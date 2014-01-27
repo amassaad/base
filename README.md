@@ -7,7 +7,7 @@ Currently includes:
 * git-completion.sh: which is a shell script
 * bash_profile: my base settings 
 * gitignore
-* README.md <= this file
+* README.md  <= this file
 
 #To use:
 
@@ -24,6 +24,6 @@ source ~/.bash_profile`
 * Add copy/backup for old files (.bak)
 * Make code to copy and git push back to GitHub 
 * Shell script it?
-* add MOTD capacity from zzv in ec2
+* add MOTD capacity from zzv into my EC2 instance
 
-Stick a fork in me, I'm delicious! 
+Stick a fork in me, I'm delicious ! 

@@ -1,5 +1,5 @@
 #source /opt/boxen/env.sh
-export PATH=/usr/local/bin:/bin:/sbin:/usr/bin:$PATH
+export PATH=/usr/local/bin:/bin:/sbin:/usr/bin:~/bin:$PATH
 export EDITOR="nano"
 export VAGRANT_DEFAULT_PROVIDER="vmware_fusion"
 # Setup some environment variables for my forgetful mind

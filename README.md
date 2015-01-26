@@ -17,7 +17,7 @@ Currently includes:
 #### finally, to update your terminal to become Le Cool &trade;
 `cp base/.git-completion.sh ~/.git-completion.sh &&
 cp base/.bash_profile ~/.bash_profile &&
-source ~/.bash_profile`
+source ~/.bash_profile && rm -rf base/`
 
 #### TO DO
 ====

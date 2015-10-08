@@ -1,8 +1,6 @@
 All your Base are belong to Massaad
 ====
 
-Basic Le Cool &trade; Tools
-
 Currently includes:
 * git-completion.sh: which is a shell script
 * bash_profile: my base settings 

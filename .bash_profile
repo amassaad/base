@@ -1,8 +1,5 @@
-#source /opt/boxen/env.sh
 export PATH=/usr/local/bin:/bin:/sbin:/usr/bin:~/bin:$PATH
 export EDITOR="nano"
-export VAGRANT_DEFAULT_PROVIDER="vmware_fusion"
-# Setup some environment variables for my forgetful mind
 export HISTSIZE=10000
 
 RED="\[\033[0;31m\]"
@@ -17,6 +14,3 @@ source ~/.git-completion.sh
 GIT_PS1_SHOWDIRTYSTATE=true
 GIT_PS1_SHOWUNTRACKEDFILES=true
 PS1="$GREEN\w$BROWN|$AQUA"'$(__git_ps1 "%s")'"$BROWN:: $WHITE"
-
-#export PATH="$HOME/.rbenv/bin:$PATH"
-#eval "$(rbenv init -)"

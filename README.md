@@ -9,11 +9,9 @@ Currently includes:
 
 #To use:
 
-#### git clone the file to your directory, like this:
-`git clone git@github.com:amassaad/base.git`
 
-#### finally, to update your terminal to add git completion and branch text
-`cp base/.git-completion.sh ~/.git-completion.sh &&
+#### Update your terminal to add git completion and branch text
+`git clone git@github.com:amassaad/base.git && cp base/.git-completion.sh ~/.git-completion.sh &&
 cp base/.bash_profile ~/.bash_profile &&
 source ~/.bash_profile && rm -rf base/`
 
